@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BSc Computer Science student @ London University.</h1>
+<h1 align="center">Hi 👋, I'm BSc Computer Science student @ University in London.</h1>
 <h3 align="center">A passionate web and game dev from Poland.</h3>
 
 <h3 align="left">About me:</h3>
