@@ -7,9 +7,7 @@
 
 - 🎯 I’m working on [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/)
 
-- 🎯 Have a look at my [Portfolio Page](https://frajdzia.github.io/portfolio/)
-
-- 🎯 Check my university [Climate Action Project - Student 2](https://frajdzia.github.io/CW1-WebDev/home.html)
+- 🎯 Check my university [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
