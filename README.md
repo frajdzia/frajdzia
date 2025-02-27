@@ -5,6 +5,8 @@
 
 - 🎯 I’m currently learning **client-side web development, game engine architecture, object-oriented programming and databases**
 
+- 🎯 Have a look at my [Portfolio](https://frajdzia.github.io/portfolio)
+
 - 🎯 I’m working on [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/)
 
 - 🎯 Check my university [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
