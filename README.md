@@ -3,13 +3,15 @@
 
 <h3 align="left">About me:</h3>
 
-- 🎯 I’m currently learning **client-side web development, game engine architecture, object-oriented programming and databases**
+- 🎯 I’m currently doing **software development group project (django + sqlite) & client-server architecture (java)**.
 
 - 🎯 Have a look at my [Portfolio](https://frajdzia.github.io/portfolio)
 
 - 🎯 I’m working on [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/)
 
 - 🎯 Check my university [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
+
+- 🎯 My 3D game prototypes [Mythic Maze](https://github.com/frajdzia/MythicMaze) & [Amazeing Journey](https://github.com/frajdzia/Amazeing_Journey)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
