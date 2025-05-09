@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm BSc Computer Science student!</h1>
+<h1 align="center">Hi, I'm BSc Computer Science student!</h1>
 <h3 align="center">A passionate web and game developer</h3>
 
-<h3 align="left">About me:</h3>
-
-- 🎯 I’m currently doing **software development group project (django + sqlite) & client-server architecture (java)**.
+<h3 align="left">My projects:</h3>
 
 - 🎯 Have a look at my [Portfolio](https://frajdzia.github.io/portfolio)
 
-- 🎯 I’m working on [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/)
-
-- 🎯 Check my university [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
+- 🎯 Check my group [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html) & [Team HealthCheck](https://github.com/frajdzia/HealthCheck)
 
 - 🎯 My 3D game prototypes [Mythic Maze](https://github.com/frajdzia/MythicMaze) & [Amazeing Journey](https://github.com/frajdzia/Amazeing_Journey)
+
+- 🎯 My other projects: [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/) & [Bookstore API](https://github.com/frajdzia/Bookstore-API)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
