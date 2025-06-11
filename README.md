@@ -3,15 +3,15 @@
 
 <h2 align="left">✨ Few of my projects</h2>
 
-- 🎯 Have a look at my [Portfolio](https://frajdzia.github.io/portfolio)
+- Have a look at my [Portfolio](https://frajdzia.github.io/portfolio)
 
-- 🎯 I have recently finished [Bookstore API](https://github.com/frajdzia/Bookstore-API)
+- I have recently finished [Bookstore API](https://github.com/frajdzia/Bookstore-API)
 
-- 🎯 Check my group [Team HealthCheck](https://github.com/frajdzia/HealthCheck) & [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
+- Check my group [Team HealthCheck](https://github.com/frajdzia/HealthCheck) & [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
 
-- 🎯 My 3D game prototypes [Mythic Maze](https://github.com/frajdzia/MythicMaze) & [Amazeing Journey](https://github.com/frajdzia/Amazeing_Journey)
+- My 3D game prototypes [Mythic Maze](https://github.com/frajdzia/MythicMaze) & [Amazeing Journey](https://github.com/frajdzia/Amazeing_Journey)
 
-- 🎯 My other projects: [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/) & [Estate agent web app](https://github.com/frajdzia/Estate_Agent_Web_Application)
+- My other projects: [Quantum Tic-Tac-Toe](https://frajdzia.github.io/QTTT/) & [Estate agent web app](https://github.com/frajdzia/Estate_Agent_Web_Application)
 
 
 ###
