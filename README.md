@@ -3,7 +3,7 @@
 
 <h2 align="left">✨ Few of my projects</h2>
 
-- Have a look at my [Portfolio](https://frajdzia.github.io/portfolio)
+- Have a look at my [Portfolio](https://portfoliols.onrender.com)
 
 - I have recently finished [Bookstore API](https://github.com/frajdzia/Bookstore-API)
 
