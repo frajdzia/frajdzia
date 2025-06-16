@@ -5,6 +5,8 @@
 
 - Have a look at my [Portfolio](https://portfoliols.onrender.com)
 
+- I am currently working on **Stellar Evolution Simulation**
+
 - I have recently finished [Bookstore API](https://github.com/frajdzia/Bookstore-API)
 
 - Check my group [Team HealthCheck](https://github.com/frajdzia/HealthCheck) & [Climate Action Project - Student 2](https://frajdzia.github.io/Climate_Action_Website/home.html)
