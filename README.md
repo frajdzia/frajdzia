@@ -5,7 +5,7 @@
 
 - Have a look at my [Portfolio](https://portfoliols.onrender.com)
 
-- I am currently working on **Stellar Evolution Simulation**
+- I am currently working on **Stellar Evolution Simulation** (Django & React)
 
 - I have recently finished [Bookstore API](https://github.com/frajdzia/Bookstore-API)
 
